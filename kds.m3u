@@ -472,7 +472,6 @@ https://iptv.yang-1989.xyz/4gtv/s7hcs4?token=52683405e5740f648a6aa9be4ceacdbd5c1
 
 #EXTINF:-1 tvg-id="星爷" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",星爷
 http://cfss.cc/cdn/huya/11342412.flv
-#EXTVLCOPT:http-user-agent=okhttp/3.14.9
 #EXTINF:-1 tvg-id="英叔" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",英叔
 http://cfss.cc/cdn/huya/11342421.flv
 #EXTINF:-1 tvg-id="发哥" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="经典电影",发哥
